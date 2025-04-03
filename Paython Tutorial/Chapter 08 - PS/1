@@ -1,0 +1,19 @@
+def fun():
+    for i in range(1,11):
+        print(i)
+
+
+fun()
+    
+
+
+
+i=2
+
+def fun():
+    while(i<=6):
+        print(i)
+        i = i+2
+
+
+fun()
